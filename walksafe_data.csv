@@ -1,0 +1,6 @@
+lighting,crowd_density,incident_count,time_of_day,safety_level
+Low,Low,5,Night,Unsafe
+High,High,0,Morning,Safe
+Medium,Medium,2,Evening,Moderate
+Low,High,4,Night,Unsafe
+High,Medium,1,Afternoon,Safe
